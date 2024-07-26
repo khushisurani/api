@@ -1,0 +1,77 @@
+[
+        {
+            "name": "iphone",
+            "price": 154,
+            "rating": "5"
+        },
+               {
+            "name": "iphone10",
+            "price": 1154,
+            "rating": "4.5"
+        },
+        {
+            "name":"watch10",
+            "price":404,
+            "rating":"4"
+        },
+        {
+            "name":"dell gaming",
+            "price":501,
+            "rating":"5"
+        },
+        {
+            "name":"mi",
+            "price":701,
+            "rating":"4.9"
+        },
+        {
+            "name": "iphone",
+            "price": 154,
+            "rating": "5"
+        },
+               {
+            "name": "iphone10",
+            "price": 1154,
+            "rating": "4.5"
+        },
+        {
+            "name":"watch10",
+            "price":404,
+            "rating":"4"
+        },
+        {
+            "name":"dell gaming",
+            "price":501,
+            "rating":"5"
+        },
+        {
+            "name":"mi",
+            "price":701,
+            "rating":"4.9"
+        },
+        {
+            "name": "iphone",
+            "price": 154,
+            "rating": "5"
+        },
+               {
+            "name": "iphone10",
+            "price": 1154,
+            "rating": "4.5"
+        },
+        {
+            "name":"watch10",
+            "price":404,
+            "rating":"4"
+        },
+        {
+            "name":"dell gaming",
+            "price":501,
+            "rating":"5"
+        },
+        {
+            "name":"mi",
+            "price":701,
+            "rating":"4.9"
+        }
+    ]
